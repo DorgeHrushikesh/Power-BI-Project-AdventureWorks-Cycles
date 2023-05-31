@@ -10,4 +10,6 @@
 https://docs.microsoft.com/en-us/sql/samples/adventureworks-install-configure?view=sql-server-ver15&tabs=ssms
 
 ## Data Model
+![image](https://github.com/DorgeHrushikesh/Power-Bi_Project_1_Dashboard/assets/135008684/d9b07934-61d9-4503-b653-b30555abf5c2)
+
  
