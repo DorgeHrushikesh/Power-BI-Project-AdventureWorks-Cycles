@@ -38,10 +38,12 @@ https://docs.microsoft.com/en-us/sql/samples/adventureworks-install-configure?vi
 
 ##### Screenshots 
 
-![image](https://github.com/DorgeHrushikesh/Power-Bi_Project_1_Dashboard/assets/135008684/8199cc54-909c-47a2-88d4-5186fe69212d)
 
-![image](https://github.com/DorgeHrushikesh/Power-Bi_Project_1_Dashboard/assets/135008684/5f4ffa08-f8a1-4721-b181-58189381f190)
+![image](https://github.com/DorgeHrushikesh/Power-Bi_Project_1_Dashboard/assets/135008684/b27b34c8-eade-43c0-8837-77d01a1ece91)
 
-![image](https://github.com/DorgeHrushikesh/Power-Bi_Project_1_Dashboard/assets/135008684/8c8512f2-d2df-4c0b-a871-d16ba85af7ff)
 
+![image](https://github.com/DorgeHrushikesh/Power-Bi_Project_1_Dashboard/assets/135008684/fc4c464b-6a17-4a6f-b53b-d4b6ed0f7b14)
+
+
+![image](https://github.com/DorgeHrushikesh/Power-Bi_Project_1_Dashboard/assets/135008684/351a2d37-6860-4e24-a0ea-20feef29f180)
 
