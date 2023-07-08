@@ -47,3 +47,5 @@ https://docs.microsoft.com/en-us/sql/samples/adventureworks-install-configure?vi
 
 ![image](https://github.com/DorgeHrushikesh/Power-Bi_Project_1_Dashboard/assets/135008684/351a2d37-6860-4e24-a0ea-20feef29f180)
 
+
+# Thank you for visiting this page
